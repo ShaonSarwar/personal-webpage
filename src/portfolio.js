@@ -41,7 +41,7 @@ const projects = [
     description:
       'Complete Digital Marketing Project',
       stack: ['Google Ads', 'Facebook Ads', 'Google Ads','SEO', 'Local SEO', 'Web Design',],
-      livePreview: 'https://www.fastrackfiling.co.uk/',
+      livePreview: 'https://kltintstudio.com/',
   },
 ]
 

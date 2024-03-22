@@ -10,7 +10,7 @@ const Contact = () => {
       <h3>Address</h3>
       <p>Narayanganj, Bangladesh</p><br/>
       <h3>Contact Info</h3>
-      <p><strong>Email:</strong>&nbsp; at2018lantis@gmail.com</p>
+      <p><strong>Email:</strong>&nbsp; fastrankonline@gmail.com</p>
       <p><strong>Phone:</strong>&nbsp; +8801405816758</p><br/>
       <div style={{display:"flex"}}>
         <a style={{marginTop:20}} href={`tel:${contact.phone}`}>

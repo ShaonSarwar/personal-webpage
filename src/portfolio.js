@@ -30,11 +30,11 @@ const projects = [
     livePreview: 'https://buzzcabs.co.uk/',
   },
   {
-    name: 'Fasttrackfiling',
+    name: 'Z Cars',
     description:
       'WEB & SEO Project',
     stack: ['SEO', 'Local SEO', 'Web Design',],
-    livePreview: 'https://www.fastrackfiling.co.uk/',
+    livePreview: 'https://zcars.taxi/',
   },
   {
     name: 'KL Tint Studio',
@@ -62,7 +62,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'at2018lantis@gmail.com',
+  email: 'fastrankonline@gmail.com',
   phone: '+8801405816758',
 }
 

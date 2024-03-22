@@ -8,8 +8,7 @@ const Contact = () => {
     <section className='section contact center' id='contact'>
       <h2 className='section__title'>Contact</h2>
       <h3>Address</h3>
-      <p><strong>Address line 1:</strong>&nbsp;  Afaj Chairmen er Bari, Amtola, Ajmotpur</p><br/>
-      <p><strong>Address line 2:</strong>&nbsp; Anayetnogor, Narayanganj Sadar</p><br/>
+      <p>Narayanganj, Bangladesh</p><br/>
       <h3>Contact Info</h3>
       <p><strong>Email:</strong>&nbsp; at2018lantis@gmail.com</p>
       <p><strong>Phone:</strong>&nbsp; +8801405816758</p><br/>

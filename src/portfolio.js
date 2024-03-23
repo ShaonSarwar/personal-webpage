@@ -2,12 +2,12 @@ const header = {
   // all the properties are optional - can be left empty or deleted
   // homepage: 'https://rajshekhar26.github.io/cleanfolio',
   homepage: 'https://mdshaon.vercel.app/',
-  title: 'MS',
+  title: 'SS',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'MD SHAON',
+  name: 'SHAON SARWAR',
   role: 'Digital Marketing Specialist',
   
   description:

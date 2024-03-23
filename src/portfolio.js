@@ -11,8 +11,8 @@ const about = {
   role: 'Digital Marketing Specialist',
   
   description:
-    `Maximize your online presence and reach your target audience with our expertly crafted Google Ads, Facebook Ads, and Search Engine Optimization (SEO) strategies. 
-    With a proven track record of delivering results, we specialize in driving qualified traffic to your website and increasing conversions.`,
+    `Maximize your online presence and reach your target audience with my expertly crafted Google Ads, Facebook Ads, and Search Engine Optimization (SEO) strategies. 
+    With a proven track record of delivering results, I specialize in driving qualified traffic to your website and increasing conversions.`,
   social: {
     linkedin: 'https://www.linkedin.com/in/shaonsarwar/',
     github: 'https://github.com/ShaonSarwar',

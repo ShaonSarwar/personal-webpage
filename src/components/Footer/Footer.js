@@ -6,7 +6,7 @@ const Footer = () => (
       href='https://www.linkedin.com/in/shaonsarwar/'
       className='link footer__link'
     >
-      © 2024 MD SHAON
+      © 2024 SHAON SARWAR
     </a>
   </footer>
 )

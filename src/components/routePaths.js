@@ -1,0 +1,1 @@
+export const BuzzPath = "/buzz-cab-project-details";

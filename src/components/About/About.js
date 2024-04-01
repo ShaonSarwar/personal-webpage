@@ -10,12 +10,12 @@ const About = () => {
   return (
     <div className='about center'>
       {name && (
-        <h1>
+        <h1 style={{textAlign:"center"}}>
           Hi, I am <span className='about__name'>{name}</span>
         </h1>
       )}
 
-      {role && <h2 className='about__role'>A {role}</h2>}
+      {role && <h2 className='about__role' style={{textAlign:"center"}}>A {role}</h2>}
       <p className='about__desc' style={{ textAlign: 'center' }}>{description && description}</p>
       <div>
         <img src={profile} alt="Profile" height={350} width={300} />

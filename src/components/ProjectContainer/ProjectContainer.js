@@ -2,6 +2,8 @@ import uniqid from 'uniqid'
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LaunchIcon from '@material-ui/icons/Launch'
 import './ProjectContainer.css'
+import { Link } from 'react-router-dom'
+import { BuzzPath } from '../routePaths'
 
 const ProjectContainer = ({ project }) => (
   <div className='project'>
@@ -30,14 +32,14 @@ const ProjectContainer = ({ project }) => (
     )}
 
     {project.livePreview && (
-      <a
-        // target='_blank'
-        href={project.livePreview}
+      <Link
+        target='_blank'
+        to={BuzzPath}
         aria-label='live preview'
         className='link link--icon'
       >
         <LaunchIcon />
-      </a>
+      </Link>
     )}
   </div>
 )

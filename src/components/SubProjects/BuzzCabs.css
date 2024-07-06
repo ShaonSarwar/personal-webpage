@@ -1,0 +1,38 @@
+.buzzcabs {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+    max-width: 1100px;
+    padding: 20px;
+}
+
+.buzzcabs__section {
+    margin-top: 5em;
+}
+
+.buzzcabs__heading {
+    text-align: center;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    color: var(--clr-primary);
+}
+
+.buzzcabs__description {
+    text-align: justify;
+    padding-inline: 15px;
+    color: var(--clr-fg);
+}
+
+.buzzcabs__image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.buzzcabs__infographic {
+    text-align: center;
+    margin-top: 1em;
+    padding: 10px;
+    background-color: var(--clr-bg-alt);
+    box-shadow: var(--shadow);
+}
